@@ -22,7 +22,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> fortalecer la comprensión de los principios, estrategias y técnicas que intervienen en la negociación y la gestión de ventas para favorecer la toma de decisiones en contextos comerciales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -30,478 +30,601 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Qué caracteriza principalmente a la negociación estratégica?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
               texto:
-                'Seleccionar y editar capas que identifican márgenes, pistas y componentes.',
+                'Es un proceso planificado para alcanzar acuerdos beneficiosos para las partes.',
               esCorrecta: true,
             },
             {
-              id: 'c',
-              texto: 'Ajustar automáticamente las pistas de cada componente.',
+              id: 'b',
+              texto: 'Busca imponer las condiciones de una parte.',
               esCorrecta: false,
             },
             {
-              id: 'd',
-              texto: 'Modificar el tamaño de los componentes.',
+              id: 'c',
+              texto: 'Se basa únicamente en reducir precios.',
               esCorrecta: false,
             },
+            { id: 'd', texto: 'Evita el análisis previo.', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! La negociación estratégica requiere planificación y análisis para alcanzar acuerdos que generen beneficios para todas las partes.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. <em>Board</em> del <em>software</em> EAGLE.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            'Durante una negociación, ¿qué habilidad permite comprender mejor las necesidades del cliente?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: '<em>Layer</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: '<em>Auto</em>',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Hablar continuamente.', esCorrecta: false },
+            { id: 'b', texto: 'Escuchar activamente.', esCorrecta: true },
             {
               id: 'c',
-              texto: '<em>Text</em>',
-              esCorrecta: true,
+              texto: 'Cambiar constantemente la propuesta.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto: 'Evitar responder preguntas.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! La escucha activa facilita comprender los intereses y necesidades del cliente para construir propuestas de valor.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: '@/assets/actividad/imagen1.png',
+          texto: '¿Qué significa la sigla M.A.A.N.?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Para borrar conexiones.',
+              texto: 'Método de Acuerdos Administrativos Nacionales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Para cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+              texto: 'Modelo de Análisis de Acuerdos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Para agregar nuevas capas.',
-              esCorrecta: false,
+              texto: 'Mejor Alternativa a un Acuerdo Negociado.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Para resaltar conexiones de pines.',
-              esCorrecta: true,
+              texto: 'Mecanismo de Acuerdos de Alto Nivel.',
+              esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! El M.A.A.N. representa la mejor alternativa disponible cuando no es posible alcanzar un acuerdo satisfactorio.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            'Cuando un cliente expresa que el producto es costoso, la mejor respuesta consiste en:',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: '<em>Text</em>',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Finalizar la negociación.', esCorrecta: false },
             {
               id: 'b',
-              texto: '<em>Layer</em>',
+              texto: 'Ofrecer un descuento inmediato.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Board</em>',
-              esCorrecta: true,
+              texto: 'Comparar únicamente el precio con la competencia.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '<em>Route</em>',
-              esCorrecta: false,
+              texto: 'Explicar el valor y los beneficios de la propuesta.',
+              esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Destacar los beneficios y el valor de la propuesta permite responder adecuadamente a este tipo de objeciones.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto:
+            '¿Cuál es la finalidad principal de definir objetivos antes de negociar?',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Enrutar manualmente las pistas que no se ajustaron automáticamente.',
+              texto: 'Orientar el proceso hacia resultados claros.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Resaltar las conexiones de los pines.',
+              texto: 'Evitar el diálogo con el cliente.',
               esCorrecta: false,
             },
-            {
-              id: 'c',
-              texto: 'Crear una nueva capa en el diseño.',
-              esCorrecta: false,
-            },
+            { id: 'c', texto: 'Eliminar las concesiones.', esCorrecta: false },
             {
               id: 'd',
-              texto:
-                'Cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+              texto: 'Aumentar el tiempo de negociación.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Establecer objetivos claros permite orientar la negociación y evaluar el logro de los resultados esperados.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+            '¿Qué fase del proceso de negociación permite identificar intereses y necesidades de las partes?',
+          imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Borrar componentes.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Ajustar automáticamente las pistas en cada componente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Crear nuevas conexiones de pines.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'Seleccionar y editar capas.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Cierre.', esCorrecta: false },
+            { id: 'b', texto: 'Exploración.', esCorrecta: true },
+            { id: 'c', texto: 'Seguimiento.', esCorrecta: false },
+            { id: 'd', texto: 'Evaluación.', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Durante la exploración se recopila información que facilita comprender las expectativas de las partes involucradas.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+            '¿Qué técnica de cierre resume los beneficios antes de solicitar la decisión del cliente?',
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Colocar los componentes en un solo bloque.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Agrupar los componentes en bloques funcionales.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Alinear todos los terminales a la derecha.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'Colocar los terminales lo más alejados posible.',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Cierre consultivo.', esCorrecta: false },
+            { id: 'b', texto: 'Cierre por alternativa.', esCorrecta: false },
+            { id: 'c', texto: 'Cierre por resumen.', esCorrecta: true },
+            { id: 'd', texto: 'Cierre prematuro.', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! El cierre por resumen destaca los beneficios acordados para facilitar la decisión final del cliente.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: '¿Qué actitud fortalece una negociación ética?',
+          imagen: '@/assets/actividad/imagen8.png',
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Manipular información.', esCorrecta: false },
+            { id: 'b', texto: 'Presionar al cliente.', esCorrecta: false },
+            { id: 'c', texto: 'Omitir datos importantes.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Actuar con transparencia y respeto.',
+              esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! La transparencia y el respeto fortalecen la confianza y favorecen relaciones comerciales duraderas.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Cuál es uno de los elementos clave de la negociación estratégica?',
+          imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'La preparación previa.', esCorrecta: true },
+            { id: 'b', texto: 'La improvisación.', esCorrecta: false },
+            { id: 'c', texto: 'La presión comercial.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'd',
+              texto: 'La competencia entre vendedores.',
               esCorrecta: false,
             },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Una adecuada preparación permite analizar la información y afrontar la negociación con mayor seguridad.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: '@/assets/actividad/imagen3.png',
+          texto: '¿Qué permite el conocimiento del M.A.A.N.?',
+          imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Aceptar cualquier propuesta.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
+              texto: 'Comparar una oferta con la mejor alternativa disponible.',
+              esCorrecta: true,
             },
+            { id: 'c', texto: 'Evitar analizar riesgos.', esCorrecta: false },
+            { id: 'd', texto: 'Negociar sin preparación.', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Comparar las propuestas con el M.A.A.N. facilita tomar decisiones estratégicas durante la negociación.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: '@/assets/actividad/imagen3.png',
+            'Si un cliente afirma que no necesita el producto, el negociador debe:',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Cancelar la negociación.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'b',
+              texto: 'Cambiar inmediatamente de producto.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: 'c',
+              texto:
+                'Identificar la necesidad y demostrar el valor de la solución.',
               esCorrecta: true,
             },
+            {
+              id: 'd',
+              texto: 'Insistir sin escuchar al cliente.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Identificar las necesidades reales del cliente permite presentar soluciones acordes con sus expectativas.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Qué documento formaliza los compromisos alcanzados durante una negociación?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'La orden de compra.', esCorrecta: false },
+            { id: 'b', texto: 'La propuesta verbal.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'c',
+              texto: 'El cronograma de actividades.',
               esCorrecta: false,
             },
+            {
+              id: 'd',
+              texto: 'El contrato o acuerdo comercial.',
+              esCorrecta: true,
+            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Los contratos y acuerdos comerciales brindan seguridad jurídica y formalizan los compromisos asumidos.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
+          texto: '¿Qué característica debe tener un objetivo de negociación?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Ser específico y medible.', esCorrecta: true },
+            { id: 'b', texto: 'Ser ambiguo.', esCorrecta: false },
+            { id: 'c', texto: 'Cambiar constantemente.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Basarse únicamente en el precio.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Los objetivos específicos y medibles facilitan orientar y evaluar el proceso de negociación.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+          texto: '¿Cuál es una causa frecuente de las objeciones en ventas?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Exceso de promociones.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'b',
+              texto: 'El cliente no percibe suficiente valor en la propuesta.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'El vendedor conoce muy bien el producto.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
+              id: 'd',
+              texto: 'El cliente ya tomó la decisión de comprar.',
+              esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Las objeciones suelen surgir cuando el cliente necesita mayor información para reconocer el valor de la propuesta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
+          texto: '¿Qué elemento fortalece el poder negociador?',
+          imagen: '@/assets/actividad/imagen5.png',
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'La improvisación.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'La presión sobre la contraparte.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Contar con alternativas disponibles.',
+              esCorrecta: true,
+            },
+            { id: 'd', texto: 'Reducir la comunicación.', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            '¡Excelente trabajo! Disponer de alternativas fortalece la posición del negociador y favorece decisiones más objetivas.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 16,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
+            '¿Cuál es una condición comercial que suele negociarse con el cliente?',
+          imagen: '@/assets/actividad/imagen6.png',
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'El uniforme del vendedor.', esCorrecta: false },
+            { id: 'b', texto: 'El horario de la empresa.', esCorrecta: false },
+            { id: 'c', texto: 'La misión organizacional.', esCorrecta: false },
+            {
+              id: 'd',
+              texto: 'El plazo de entrega del producto.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            '¡Excelente trabajo! Aspectos como los plazos de entrega hacen parte de las condiciones comerciales que pueden acordarse entre las partes.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Qué busca la generación de opciones durante una negociación?',
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Construir alternativas de solución para alcanzar acuerdos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Eliminar todas las propuestas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Reducir la participación del cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Finalizar rápidamente la negociación.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Generar diferentes alternativas aumenta las posibilidades de lograr acuerdos beneficiosos para ambas partes.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 18,
+          texto: '¿Cuál es uno de los propósitos del manejo de objeciones?',
+          imagen: '@/assets/actividad/imagen8.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Convencer al cliente mediante presión.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Resolver dudas y fortalecer la confianza.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Evitar responder preguntas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Incrementar el precio del producto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Excelente trabajo! Resolver las objeciones permite fortalecer la confianza del cliente y facilitar el avance de la negociación.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 19,
+          texto: '¿Qué efecto tiene aplicar adecuadamente el M.A.A.N.?',
+          imagen: '@/assets/actividad/imagen9.png',
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Reduce la preparación.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'Obliga a aceptar cualquier acuerdo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Favorece decisiones informadas y estratégicas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Elimina todas las alternativas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Excelente trabajo! Aplicar el M.A.A.N. permite evaluar objetivamente las propuestas antes de tomar una decisión.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Por qué es importante considerar los costos de envío y distribución durante una negociación comercial?',
+          imagen: '@/assets/actividad/imagen10.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Porque reemplazan el contrato comercial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Porque eliminan las objeciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Porque solo interesan al proveedor.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Porque influyen en el costo final y en las condiciones del acuerdo.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            'Ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
+          mensaje_incorrecto:
+            'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
-    parrafo: {
-      tema: 'Comprendiendo el diseño de presupuestos y estrategias de ahorro',
-      titulo: 'Completar frases',
-      introduccion:
-        '<b> Objetivo:</b> identificar conceptos clave relacionados con el presupuesto personal, la cultura del ahorro y la planificación financiera.',
-      instruccion:
-        'Complete correctamente los enunciados con la palabra que falta según los contenidos estudiados en el componente formativo.',
-      imagen: '@/assets/actividad/imagen1.png',
-      barajarPreguntas: true,
-      textos: [
-        {
-          id: 1,
-          texto:
-            'El [respuesta] personal es una herramienta que permite proyectar ingresos y egresos para mantener la estabilidad económica.',
-          respuesta: 'presupuesto',
-        },
-        {
-          id: 2,
-          texto:
-            'La constancia en el cumplimiento del presupuesto refleja un alto nivel de [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 3,
-          texto:
-            'Ahorrar no es lo que sobra, sino lo que se [respuesta] guardar antes de gastar.',
-          respuesta: 'planifica',
-        },
-        {
-          id: 4,
-          texto:
-            'Un gasto innecesario que puede eliminarse sin afectar la calidad de vida básica se denomina gasto [respuesta].',
-          respuesta: 'discrecional',
-        },
-        {
-          id: 5,
-          texto:
-            'La cultura del ahorro promueve el uso responsable de los [respuesta] disponibles.',
-          respuesta: 'recursos',
-        },
-        {
-          id: 6,
-          texto:
-            'El estado de [respuesta] personales permite analizar la relación entre ingresos y egresos en un periodo determinado.',
-          respuesta: 'resultados',
-        },
-        {
-          id: 7,
-          texto:
-            'Cuando los ingresos son mayores que los egresos se generan una [respuesta] que puede destinarse al ahorro.',
-          respuesta: 'utilidad',
-        },
-        {
-          id: 8,
-          texto:
-            'Uno de los beneficios de ejecutar un presupuesto es la reducción del [respuesta] financiero.',
-          respuesta: 'estrés',
-        },
-        {
-          id: 9,
-          texto:
-            'Evitar gastos impulsivos y mantener límites presupuestales refleja [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 10,
-          texto:
-            'Contar con un fondo de [respuesta] permite enfrentar gastos inesperados sin afectar el presupuesto.',
-          respuesta: 'emergencia',
-        },
-      ],
-    },
+    // parrafo: {
+    //   tema: 'Comprendiendo el diseño de presupuestos y estrategias de ahorro',
+    //   titulo: 'Completar frases',
+    //   introduccion:
+    //     '<b> Objetivo:</b> identificar conceptos clave relacionados con el presupuesto personal, la cultura del ahorro y la planificación financiera.',
+    //   instruccion:
+    //     'Complete correctamente los enunciados con la palabra que falta según los contenidos estudiados en el componente formativo.',
+    //   imagen: '@/assets/actividad/imagen1.png',
+    //   barajarPreguntas: true,
+    //   textos: [
+    //     {
+    //       id: 1,
+    //       texto:
+    //         'El [respuesta] personal es una herramienta que permite proyectar ingresos y egresos para mantener la estabilidad económica.',
+    //       respuesta: 'presupuesto',
+    //     },
+    //     {
+    //       id: 2,
+    //       texto:
+    //         'La constancia en el cumplimiento del presupuesto refleja un alto nivel de [respuesta] financiera.',
+    //       respuesta: 'disciplina',
+    //     },
+    //     {
+    //       id: 3,
+    //       texto:
+    //         'Ahorrar no es lo que sobra, sino lo que se [respuesta] guardar antes de gastar.',
+    //       respuesta: 'planifica',
+    //     },
+    //     {
+    //       id: 4,
+    //       texto:
+    //         'Un gasto innecesario que puede eliminarse sin afectar la calidad de vida básica se denomina gasto [respuesta].',
+    //       respuesta: 'discrecional',
+    //     },
+    //     {
+    //       id: 5,
+    //       texto:
+    //         'La cultura del ahorro promueve el uso responsable de los [respuesta] disponibles.',
+    //       respuesta: 'recursos',
+    //     },
+    //     {
+    //       id: 6,
+    //       texto:
+    //         'El estado de [respuesta] personales permite analizar la relación entre ingresos y egresos en un periodo determinado.',
+    //       respuesta: 'resultados',
+    //     },
+    //     {
+    //       id: 7,
+    //       texto:
+    //         'Cuando los ingresos son mayores que los egresos se generan una [respuesta] que puede destinarse al ahorro.',
+    //       respuesta: 'utilidad',
+    //     },
+    //     {
+    //       id: 8,
+    //       texto:
+    //         'Uno de los beneficios de ejecutar un presupuesto es la reducción del [respuesta] financiero.',
+    //       respuesta: 'estrés',
+    //     },
+    //     {
+    //       id: 9,
+    //       texto:
+    //         'Evitar gastos impulsivos y mantener límites presupuestales refleja [respuesta] financiera.',
+    //       respuesta: 'disciplina',
+    //     },
+    //     {
+    //       id: 10,
+    //       texto:
+    //         'Contar con un fondo de [respuesta] permite enfrentar gastos inesperados sin afectar el presupuesto.',
+    //       respuesta: 'emergencia',
+    //     },
+    //   ],
+    // },
   }),
 }
 </script>

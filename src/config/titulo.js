@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'La negociación como estrategia de ventas'
