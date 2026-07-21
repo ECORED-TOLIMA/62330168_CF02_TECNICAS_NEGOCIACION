@@ -8,7 +8,19 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+    .row.justify-content-center.mb-4
+      .col.col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
+        figure
+          img(src='@/assets/curso/temas/intro/img01.jpg', alt='Imagen decorativa')
+      .col.col-lg-9.col-12.order-lg-1.order-2
+        p.mb-4(data-aos="fade-down") Este componente presenta la conceptualización de la negociación como estrategias requeridas tanto en la vida diaria como en el ámbito organizacional. Desde aquí, se presentan sus elementos y características, así como sus estilos y técnicas, las cuales brindan un fundamento consistente para su implementación en escenarios diversos, donde la confrontación o la divergencia se presente.
+        .cajon.c1.p-3
+          .row.align-items-center
+            .col-lg-auto.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/intro/img02.svg', alt='Imagen decorativa')
+            .col-lg-10.col-12
+              p.mb-0(data-aos="fade-down") Finalmente, la negociación fortalece la adaptabilidad y la flexibilidad organizacional, ya que permite responder de manera efectiva a cambios del entorno, gestionar intereses diversos y generar acuerdos sostenibles en escenarios de incertidumbre.
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure

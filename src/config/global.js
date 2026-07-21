@@ -199,9 +199,9 @@ export default {
         'proceso creativo mediante el cual se plantean múltiples alternativas de solución antes de tomar una decisión dentro de una negociación.',
     },
     {
-      termino: 'Lead',
+      termino: '<em>Lead</em>',
       significado:
-        'persona o empresa que ha mostrado interés en los productos o servicios de una marca, proporcionando sus datos de contacto (nombre, email, teléfono) a través de un formulario, suscripción o descarga, convirtiéndose así en un cliente potencial.',
+        'persona o empresa que ha mostrado interés en los productos o servicios de una marca, proporcionando sus datos de contacto (nombre, <em>email</em>, teléfono) a través de un formulario, suscripción o descarga, convirtiéndose así en un cliente potencial.',
     },
     {
       termino: 'M.A.A.N. (Mejor Alternativa a un Acuerdo Negociado)',
@@ -224,56 +224,56 @@ export default {
         'capacidad que tiene una de las partes para influir en el resultado de la negociación, determinada por factores como información, alternativas y posición en el mercado.',
     },
     {
-      termino: 'Win lose',
+      termino: '<em>Win lose</em>',
       significado: 'ganar – perder.',
     },
     {
-      termino: 'Win win',
+      termino: '<em>Win win</em>',
       significado: 'ganar – ganar o beneficio mutuo.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Alteco Consultores. (2019). MAAN. Mejor Alternativa a un Acuerdo Negociado.',
+        'Alteco Consultores. (2019). <em>MAAN. Mejor Alternativa a un Acuerdo Negociado</em>.',
       link: 'https://www.aiteco.com/maan-mejor-alternativa-a-un-acuerdo-negociado/',
     },
     {
       referencia:
-        'Canelón, M. (2023). Mejor Alternativa a un Acuerdo Negociado (M.A.A.N.). Cambrige International Consulting.',
+        'Canelón, M. (2023). <em>Mejor Alternativa a un Acuerdo Negociado (M.A.A.N.)</em>. Cambrige International Consulting.',
       link: 'https://ciccambridge.com/blog/mejor-alternativa-a-un-acuerdo-negociado-m-a-a-n/',
     },
     {
       referencia:
-        'Davidson, A. & Aguilar, S. (2021). Poderosas Técnicas de Negociación y Ventas.',
+        'Davidson, A. & Aguilar, S. (2021). <em>Poderosas Técnicas de Negociación y Ventas</em>.',
     },
     {
       referencia:
-        'Escuela de Negocios y Derecho – ESADE. (2025). Técnicas de negociación: una habilidad esencial en el mundo empresarial.',
+        'Escuela de Negocios y Derecho – ESADE. (2025). <em>Técnicas de negociación: una habilidad esencial en el mundo empresarial</em>.',
     },
     {
       referencia:
-        'Gestionar Fácil. (s.f.). Técnicas de ventas: todo lo que debes saber.',
+        'Gestionar Fácil. (s.f.). <em>Técnicas de ventas: todo lo que debes saber</em>.',
       link: 'https://www.gestionar-facil.com/tecnicas-de-ventas/',
     },
     {
       referencia:
-        'González, Castillo, C. (2021) La ética en la negociación. Universidad San Marcos. San José, Costa Rica.',
+        'González, Castillo, C. (2021) <em>La ética en la negociación</em>. Universidad San Marcos. San José, Costa Rica.',
       link: 'https://repositorio.usam.ac.cr/xmlui/bitstream/handle/11506/1631/LEC%20PSIC%200065%202021.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Hotmart. (2022). Conoce las siete principales objeciones de ventas y aprende a evitarlas.',
+        'Hotmart. (2022). <em>Conoce las siete principales objeciones de ventas y aprende a evitarlas</em>.',
       link: 'https://hotmart.com/es/blog/objeciones-de-venta',
     },
     {
       referencia:
-        'HubSpot. (2023). Las 6 técnicas de negociación más eficaces para tus ventas (método SPIN, AIDA, Ganar-Ganar).',
+        'HubSpot. (2023). <em>Las 6 técnicas de negociación más eficaces para tus ventas (método SPIN, AIDA, Ganar-Ganar)</em>.',
       link: 'https://blog.hubspot.es/sales/tecnicas-negociacion',
     },
     {
       referencia:
-        'ISPROX. (s.f.). Seis técnicas de negociación imprescindibles.',
+        'ISPROX. (s.f.). <em>Seis técnicas de negociación imprescindibles</em>.',
       link: 'https://isprox.com/es/tecnicas-de-negociacion/',
     },
   ],
