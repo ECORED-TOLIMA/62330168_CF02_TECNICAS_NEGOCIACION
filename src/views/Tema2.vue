@@ -436,7 +436,7 @@
     .titulo-tercer-nivel.mb-4(data-aos="fade-right")
       img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/t1.svg')
       h4.titulo-tercer-nivel__text.mb-0.px-0.py-2 Características de la negociación estratégica
-    p.mb-4(data-aos="fade-down") La negociación estratégica posee características que la diferencian de otras formas de negociación. La primera es la planificación previa, que implica realizar un análisis profundo de la información disponible, los intereses de las partes y los posibles escenarios antes de iniciar el proceso. Otra característica es la orientación a resultados, enfocada en alcanzar acuerdos beneficiosos para las partes involucradas. Asimismo, se fundamenta en un enfoque basado en intereses, priorizando la comprensión de las necesidades reales de cada parte para generar valor compartido y favorecer el establecimiento de relaciones de largo plazo sustentadas en la confianza. Finalmente, la flexibilidad estratégica permite ajustar las tácticas y estrategias durante el proceso de negociación, facilitando la adaptación a los cambios y a las dinámicas propias de cada situación.
+    p.mb-4(data-aos="fade-down") La negociación estratégica posee características que la diferencian de otras formas de negociación. La primera es la <b>planificación previa</b>, que implica realizar un análisis profundo de la información disponible, los intereses de las partes y los posibles escenarios antes de iniciar el proceso. Otra característica es la <b>orientación a resultados</b>, enfocada en alcanzar acuerdos beneficiosos para las partes involucradas. Asimismo, se fundamenta en un <b>enfoque basado en intereses</b>, priorizando la comprensión de las necesidades reales de cada parte para generar valor compartido y favorecer el establecimiento de relaciones de largo plazo sustentadas en la confianza. Finalmente, la <b>flexibilidad estratégica</b> permite ajustar las tácticas y estrategias durante el proceso de negociación, facilitando la adaptación a los cambios y a las dinámicas propias de cada situación.
     .titulo-tercer-nivel.mb-4(data-aos="fade-right")
       img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/t1.svg')
       h4.titulo-tercer-nivel__text.mb-0.px-0.py-2 Elementos clave de la negociación estratégica
@@ -843,6 +843,9 @@
           .row.justify-content-center(titulo="Elemento 3")
             .col-12.order-lg-1.order-2
               p Finalmente, se realiza la comparación de propuestas, lo que permite evaluar si la oferta presentada durante la negociación es realmente más favorable que la alternativa disponible, facilitando así una decisión estratégica y fundamentada.
+    .titulo-tercer-nivel.mb-4(data-aos="fade-right")
+      img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/t1.svg')
+      h4.titulo-tercer-nivel__text.mb-0.px-0.py-2 Implementación del M.A.A.N.
     .row.justify-content-center.mb-4
       .col.col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
@@ -865,8 +868,8 @@
         figure
           img(src='@/assets/curso/temas/t2/img48.png', alt='Imagen decorativa')
       .col.col-lg-7.col-12.order-lg-2.order-2
-        .cajon.c2.p-3.mb-2
-          p.mb-0(data-aos="fade-down") Una vez identificadas estas acciones, se procede a la evaluación de cada alternativa, analizando factores como los costos, beneficios, riesgos y la viabilidad de cada una. Con base en este análisis, el negociador realiza la selección de la mejor alternativa, aquella que ofrece mayores ventajas si no se logra un acuerdo. A partir de esta decisión se establece la definición del límite de negociación, que corresponde al punto mínimo aceptable antes de abandonar la negociación y optar por la alternativa disponible. 
+        .cajon.c2.p-4.mb-3
+          p.mb-0(data-aos="fade-down") La implementación del M.A.A.N. se vuelve necesaria en diversas situaciones dentro del entorno empresarial y comercial. Una de las principales causas es la incertidumbre en los procesos de negociación, ya que no siempre es posible garantizar que se alcanzará un acuerdo; por lo tanto, contar con alternativas permite reducir los riesgos asociados a esta incertidumbre. 
         p.mb-0(data-aos="fade-down") Otra causa importante es la necesidad de fortalecer la posición negociadora. Cuando una de las partes tiene claridad sobre sus opciones alternativas, puede negociar con mayor seguridad y evitar aceptar condiciones poco favorables. También se hace necesaria en contextos donde existe alta competencia en el mercado, ya que las empresas deben evaluar constantemente diferentes opciones comerciales, proveedores o clientes.
     .row.justify-content-center.mb-4  
       .col.col-lg-10.col-12
