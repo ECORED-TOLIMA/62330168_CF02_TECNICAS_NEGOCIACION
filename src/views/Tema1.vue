@@ -12,7 +12,7 @@
         )
         .bloque-texto-g__texto.p-4
           p.mb-0(data-aos="fade-down") La implementación de técnicas de negociación exige comprender que el desempeño del negociador no depende solo del dominio de tácticas puntuales, sino de la integración entre preparación, lectura del contexto, comunicación y conducta profesional. En consecuencia, el proceso de formación debe desarrollar competencias personales y sociales que permitan convertir la interacción comercial en una oportunidad para crear confianza y valor compartido.
-      p.mb-4(data-aos="fade-down") Las habilidades que se necesitan dependen del entorno, el resultado deseado y las partes involucradas. A continuación, se presenta algunas habilidades clave de negociación que se aplican a muchas situaciones:
+      p.mb-4(data-aos="fade-down") Las habilidades que se necesitan dependen del entorno, el resultado deseado y las partes involucradas. A continuación, se presentan algunas habilidades clave de negociación que se aplican a muchas situaciones:
       .row.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")
         .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
           LineaTiempoD.color-acento-botones.especial
@@ -102,7 +102,7 @@
                   td(data-aos="fade-down") Ayuda a prever alternativas, límites y concesiones posibles.
                   td(data-aos="fade-down") Fortalece la preparación antes de presentar condiciones de venta.
       p(data-aos="fade-down") La tabla anterior indica que las habilidades personales sostienen el desempeño estratégico del negociador y permiten pasar de una lógica reactiva a una lógica de anticipación.
-      p.mb-4(data-aos="fade-down") El proceso de negociación es subjetivo y depende del carácter de la persona negociadora. Para lograr un éxito en esta estrategia el negociador debe tener las siguientes habilidades personales y técnicas orientadas a la negociación, la cuales presenta el sitio <em>web</em> ISPROX:
+      p.mb-4(data-aos="fade-down") El proceso de negociación es subjetivo y depende del carácter de la persona negociadora. Para lograr un éxito en esta estrategia, el negociador debe tener las siguientes habilidades personales y técnicas orientadas a la negociación, la cuales presenta el sitio <em>web</em> ISPROX:
       .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
         SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
           .tarjeta.tarjeta--bg01.p-4
@@ -176,7 +176,7 @@
           figure
             img(src='@/assets/curso/temas/t1/img18.png', alt='Imagen decorativa')
         .col.col-lg-8.col-12.order-lg-1.order-2
-          p.mb-4(data-aos="fade-down") Para que el negociador tenga éxito, es necesario que fortalezca una serie de habilidades y actitudes que le permitan estar bajo presión, tener autocontrol, escuchar atentamente, tener capacidad de análisis para proponer, refutar, concertar, conciliar y ceder obteniendo los mejores resultados.
+          p.mb-4(data-aos="fade-down") Para que el negociador tenga éxito, es necesario que fortalezca una serie de habilidades y actitudes que le permitan estar bajo presión, tener autocontrol, escuchar atentamente, tener capacidad de análisis para proponer, refutar, concertar, conciliar y ceder, obteniendo los mejores resultados.
           .tarjeta.tarjeta--c3.p-4
             .col.col-lg-12
               p.mb-0(data-aos="fade-down") En síntesis, el desarrollo de habilidades personales y actitudes para la negociación constituye la base del desempeño comercial efectivo, su fortalecimiento incrementa la capacidad para actuar con seguridad, argumentar con claridad y construir acuerdos coherentes con los objetivos de venta y con las relaciones de largo plazo.
@@ -228,7 +228,7 @@
                   img(src='@/assets/curso/temas/t1/img23.svg', alt='Imagen decorativa')
               .col-lg-10.col-12
                 p.mb-0(data-aos="fade-down") También es importante reconocer que la relación con el cliente no se limita al momento de la transacción. La forma en que se gestionan las interacciones influye directamente en la confianza, la recomendación y la posibilidad de futuras negociaciones. Por ello, el trato interpersonal debe orientarse a la construcción de valor relacional, además del valor económico.
-      p.mb-4(data-aos="fade-down") A partir de lo anterior, se presenta la esta tabla, que sintetiza las principales habilidades interpersonales presentes en la negociación, su descripción y el efecto esperado que generan en el desarrollo del proceso negociador y en la construcción de acuerdos sostenibles:
+      p.mb-4(data-aos="fade-down") A partir de lo anterior, se presenta esta tabla, que sintetiza las principales habilidades interpersonales presentes en la negociación, su descripción y el efecto esperado que generan en el desarrollo del proceso negociador y en la construcción de acuerdos sostenibles:
       .row.justify-content-center.mb-4(data-aos="flip-up")
         .col.col-12.col-lg-10
           .titulo-sexto.color-acento-contenido
@@ -426,12 +426,12 @@
             p.mb-2(data-aos="fade-down") Una comunicación efectiva no consiste solo en hablar con fluidez, sino en construir mensajes comprensibles, oportunos y orientados al propósito del proceso. Esto incluye formular preguntas relevantes, explicar beneficios con precisión, verificar comprensión y atender señales verbales y no verbales del cliente.
       p(data-aos="fade-down") El método SPIN aporta una perspectiva útil porque organiza la conversación en torno a preguntas sobre situación, problema, implicación y necesidad. Este enfoque permite que el cliente participe activamente en la identificación de su problemática y perciba la propuesta comercial como respuesta pertinente a una necesidad real.
       p(data-aos="fade-down") Del mismo modo, la escucha activa es esencial para evitar respuestas genéricas o prematuras. Escuchar activamente implica atender el contenido, el contexto y la intención del mensaje, con el fin de responder de manera ajustada y generar confianza comunicativa.
-      p.mb-4(data-aos="fade-down") La siguiente tabla ejemplifica un poco cada componente que hace parte dentro de la comunicación y relaciona su funcionalidad:
+      p.mb-4(data-aos="fade-down") La siguiente tabla ejemplifica un poco cada componente que hace parte de la comunicación y relaciona su funcionalidad:
       .row.justify-content-center.mb-4(data-aos="flip-up")
         .col.col-12.col-lg-10
           .titulo-sexto.color-acento-contenido
             h5 Tabla 4.
-            span Tipos de actitudes necesarias en la negociación
+            span Componentes comunicativos
           .tabla-a.color-acento-contenido
             table
               thead
@@ -538,7 +538,7 @@
             .col.col-lg-10
               p.mb-0(data-aos="fade-down") El método Harvard propone separar personas y problema, enfocarse en intereses y generar opciones de beneficio mutuo. SPIN organiza preguntas para descubrir la necesidad del cliente. AIDA orienta la interacción hacia atención, interés, deseo y acción. Por su parte, la empatía estratégica y el enfoque ganar-ganar favorecen relaciones más colaborativas y decisiones con mayor valor compartido. 
           p.mb-4(data-aos="fade-down") La pertinencia de cada técnica depende del momento de la venta. Algunas sirven mejor para explorar necesidades, otras para responder objeciones y otras para facilitar el cierre.
-          p.mb-0(data-aos="fade-down") El aprendizaje debe centrarse, entonces, en reconocer cuándo y cómo aplicar cada enfoque como lo muestra la siguiente tabla:
+          p.mb-0(data-aos="fade-down") El aprendizaje debe centrarse, entonces, en reconocer cuándo y cómo aplicar cada enfoque, como lo muestra la siguiente tabla:
       .row.justify-content-center.mb-4(data-aos="flip-up")
         .col.col-12.col-lg-10
           .titulo-sexto.color-acento-contenido

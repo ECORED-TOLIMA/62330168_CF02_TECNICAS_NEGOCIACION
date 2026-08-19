@@ -259,7 +259,7 @@ export default {
     {
       referencia:
         'González, Castillo, C. (2021) <em>La ética en la negociación</em>. Universidad San Marcos. San José, Costa Rica.',
-      link: 'https://repositorio.usam.ac.cr/xmlui/bitstream/handle/11506/1631/LEC%20PSIC%200065%202021.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     p El componente formativo articula dos dimensiones inseparables en el contexto comercial: la negociación y la venta. La primera aporta método, análisis y criterio relacional; la segunda orienta estos recursos hacia la generación de valor para el cliente y el logro de resultados organizacionales sostenibles.
-    p A lo largo de su desarrollo se evidencia que el desempeño exitoso del negociador en ventas depende de la integración de habilidades personales, actitudes adecuadas, comunicación efectiva, comportamiento ético, manejo de objeciones, definición de objetivos claros, técnicas de cierre y conocimiento del M.A.A.N. En conjunto, estos elementos permiten conducir procesos de negociación con preparación, flexibilidad y un enfoque orientado al beneficio mutuo.
+    p A lo largo de su desarrollo, se evidencia que el desempeño exitoso del negociador en ventas depende de la integración de habilidades personales, actitudes adecuadas, comunicación efectiva, comportamiento ético, manejo de objeciones, definición de objetivos claros, técnicas de cierre y conocimiento del M.A.A.N. En conjunto, estos elementos permiten conducir procesos de negociación con preparación, flexibilidad y un enfoque orientado al beneficio mutuo.
     .row.justify-content-center
       .col-12.mb-5.bgs.p-4.brad
         figure

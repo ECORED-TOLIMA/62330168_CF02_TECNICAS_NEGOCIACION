@@ -162,7 +162,7 @@
                 td(data-aos="fade-down") Construir vínculo personal y confianza.
                 td(data-aos="fade-down") Favorece escenarios donde la credibilidad es decisiva.
               tr
-                td(data-aos="fade-down") <em>storytelling</em>.
+                td(data-aos="fade-down") <em>Storytelling</em>.
                 td(data-aos="fade-down") Presentar valor a través de relatos significativos.
                 td(data-aos="fade-down") Incrementa recordación y conexión emocional.
     p.mb-5(data-aos="fade-down") La tabla ofrece un panorama comparativo útil para que el aprendiz diferencie técnicas y determine cuándo conviene aplicar cada una.
@@ -346,7 +346,7 @@
           .row(numero="1" titulo="Indecisión")
             .col-12.mb-4.mb-md-0
               p En este tipo de barrera, el comprador potencial puede escuchar la presentación, pero aún no considera que la información sea suficiente para confiar en la calidad del producto y concretar la compra.
-              p Generalmente, los clientes indecisos manifiestan que necesitan más tiempo para reflexionar o investigar antes de tomar una decisión. Cuando estas situaciones se presentan, el negociador debe identificar las dudas que aún persisten. Para ello, puede formular preguntas como: ¿Tiene alguna duda sobre el funcionamiento del producto? ¿Le queda claro el método de pago? ¿Ha comprendido cómo el producto puede beneficiarle.
+              p Generalmente, los clientes indecisos manifiestan que necesitan más tiempo para reflexionar o investigar antes de tomar una decisión. Cuando estas situaciones se presentan, el negociador debe identificar las dudas que aún persisten. Para ello, puede formular preguntas como: ¿Tiene alguna duda sobre el funcionamiento del producto? ¿Le queda claro el método de pago? ¿Ha comprendido cómo el producto puede beneficiarle?.
               p.mb-0 Este enfoque fortalece la relación entre el negociador y el consumidor, ya que demuestra que el propósito no es únicamente cerrar una venta, sino también resolver las dudas e inseguridades del prospecto. Esta actitud proactiva favorece la confianza en la marca y facilita que el cliente reconozca el valor de la solución ofrecida. Un proceso de negociación efectivo requiere analizar cuidadosamente las necesidades y preocupaciones del comprador.
           .row(numero="2" titulo="Producto ya adquirido")
             .col-12.mb-4.mb-md-0
@@ -917,7 +917,7 @@
             figure
               img(src='@/assets/curso/temas/t2/img53.svg', alt='Imagen decorativa')
           .col.col-lg-10
-            p.mb-0(data-aos="fade-down") Basado en la explicación previa sobre todos los aspectos que tienen que ver que con la implementación de la Mejor Alternativa a un Acuerdo Negociado (M.A.A.N.), se relaciona la siguiente tabla:
+            p.mb-0(data-aos="fade-down") Basado en la explicación previa sobre todos los aspectos que tienen que ver con la implementación de la Mejor Alternativa a un Acuerdo Negociado (M.A.A.N.), se relaciona la siguiente tabla:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -1115,6 +1115,9 @@
     p.mb-4(data-aos="fade-down") Para finalizar esta temática, se presenta un pódcast que, a través de un caso práctico, relaciona cómo un proceso de negociación bien gestionado conduce a un cierre de ventas exitoso. Esta experiencia permite reconocer la aplicación de estrategias, habilidades y técnicas que favorecen la construcción de acuerdos y el logro de resultados comerciales:
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Pódcast.
+          span Del diálogo al acuerdo: un cierre de ventas exitoso
         .row.justify-content-center.align-items-center.g-0
           .col-lg-12.col-12.order-lg-2.order-2
             .cajon.cajon.c3.p-4

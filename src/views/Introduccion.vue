@@ -20,13 +20,14 @@
               figure
                 img(src='@/assets/curso/temas/intro/img02.svg', alt='Imagen decorativa')
             .col-lg-10.col-12
-              p.mb-0(data-aos="fade-down") Este componente presenta la conceptualización de la negociación como estrategias requeridas tanto en la vida diaria como en el ámbito organizacional. Desde aquí, se presentan sus elementos y características, así como sus estilos y técnicas, las cuales brindan un fundamento consistente para su implementación en escenarios diversos, donde la confrontación o la divergencia se presente.
-    p.mb-4(data-aos="fade-down") Finalmente, la negociación fortalece la adaptabilidad y la flexibilidad organizacional, ya que permite responder de manera efectiva a cambios del entorno, gestionar intereses diversos y generar acuerdos sostenibles en escenarios de incertidumbre.
+              p.mb-0(data-aos="fade-down") Este componente formativo se enfoca en desarrollar capacidades para intervenir de forma pertinente en escenarios de venta consultiva, tratamiento de objeciones, formulación de alternativas y cierre estratégico.
+    p.mb-4(data-aos="fade-down") Para comprender la importancia del contenido y los temas abordados, se recomienda acceder al siguiente video:
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/ZN9TyvaEJew?si=7FQMp9zMLwdSYPFJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption <b>Vídeo 1.</b> La negociación como estrategia de ventas
 
 </template>
 
